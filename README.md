@@ -9,6 +9,8 @@ Team members :
 
 ```python
 pip install -r requirements.txt
+```
+
 
 
 ###  Instructions for Task 1: 
