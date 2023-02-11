@@ -3,7 +3,7 @@
 Team members : 
 
 1. Bannuru Rohit Kumar Reddy (21CS30011)
-2. Jayaditys Sreekar (21EC10085)
+2. Jayadithya Sreekar (21EC10085)
 
 ## SETUP
 
